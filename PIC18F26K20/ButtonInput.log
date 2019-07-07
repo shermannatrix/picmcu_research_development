@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F26K20 -DL -O11111114 -fo32 -N"D:\picmcu_research_development\PIC18F26K20\ButtonInput.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\picmcu_research_development\PIC18F26K20\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"D:\picmcu_research_development\PIC18F26K20\" "ButtonInput.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl"	 
+hint: 0	1139	Available RAM: 3915 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	ButtonInput.c
+diagnostics: 32	123	Compiled Successfully	ButtonInput.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 11 (1%)  Free RAM (bytes): 3904 (99%)	Used RAM (bytes): 11 (1%)  Free RAM (bytes): 3904 (99%)
+hint: 0	1144	Used ROM (bytes): 252 (1%)  Free ROM (bytes): 65284 (99%)	Used ROM (bytes): 252 (1%)  Free ROM (bytes): 65284 (99%)
+diagnostics: 0	125	Project Linked Successfully	ButtonInput.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'ButtonInput.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 07 Jul 2019, 02:37:07	ButtonInput.mcppi
